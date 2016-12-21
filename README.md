@@ -2,8 +2,8 @@
 Eagle library for STM32F4 ST Microelectronic
 
 
-stm32f427 / stm32f429 :
---------------------------------------------
-Device / package: 
-stm32f42xIxTx - LQFP176
-stm32f42xBxTx - LQFP208
+<B>stm32f427 / stm32f429 :</B><P>
+--------------------------------------------<P>
+Device / package: <P>
+stm32f42xIxTx - LQFP176 <P>
+stm32f42xBxTx - LQFP208 <P>
