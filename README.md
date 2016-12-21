@@ -1,5 +1,5 @@
 # fe501_eagle_lib
-Eagle library for STM32F4 ST Microelectronic<br>
+Eagle library for STM32F4 ST Microelectronic microcontroler<br>
 
 
 <P>
